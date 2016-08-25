@@ -1,0 +1,7 @@
+1 10 1 5 4 7 1 6 6 1 |elephant|animal
+1 4 8 9 3 3 10 7 7 2 |dog|animal
+1 5 8 8 2 4 5 9 8 8 |rhino|animal
+1 3 2 10 5 4 10 9 1 3 |Coffee|drink
+1 10 7 9 3 8 8 6 8 5 |aehywrth|dfhae
+1 7 4 6 1 9 4 5 4 6 |Bottle|water
+1 5 9 2 6 8 7 4 7 6 |tableTop|forables
